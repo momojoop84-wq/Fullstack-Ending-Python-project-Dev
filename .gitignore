@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Variables d'environnement (SÉCURITÉ)
+.env
+
+# Base de données (si on exporte des bdd locales par erreur)
+*.db
+*.sqlite
+
+# IDE (VS Code)
+.vscode/

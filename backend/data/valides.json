@@ -1,0 +1,3040 @@
+[
+    {
+        "code": "AAD003",
+        "numero": "2014079LH",
+        "prenom": "Baba",
+        "nom": "CISSE",
+        "date_naissance": "16/08/1999",
+        "classe": "6A",
+        "matieres": {
+            "Math": 8.0,
+            "Francais": 12.17,
+            "Anglais": 12.33,
+            "PC": 9.17,
+            "SVT": 10.83,
+            "HG": 16.83
+        },
+        "moyenne_generale": 11.55
+    },
+    {
+        "code": "AAD003",
+        "numero": "2016023LD",
+        "prenom": "mbaye",
+        "nom": "NDIAYE",
+        "date_naissance": "12/09/2000",
+        "classe": "5A",
+        "matieres": {
+            "Math": 6.33,
+            "Francais": 14.67,
+            "Anglais": 15.5,
+            "PC": 8.67,
+            "SVT": 11.5,
+            "HG": 16.5
+        },
+        "moyenne_generale": 12.2
+    },
+    {
+        "code": "AAD003",
+        "numero": "286325HG",
+        "prenom": "Awa",
+        "nom": "GAYE",
+        "date_naissance": "13/04/2012",
+        "classe": "3A",
+        "matieres": {
+            "Math": 6.17,
+            "Francais": 10.83,
+            "Anglais": 13.33,
+            "PC": 9.17,
+            "SVT": 11.83,
+            "HG": 16.83
+        },
+        "moyenne_generale": 11.36
+    },
+    {
+        "code": "AAD003",
+        "numero": "201817JK",
+        "prenom": "Ndiaga",
+        "nom": "NDAO",
+        "date_naissance": "12/04/2000",
+        "classe": "6B",
+        "matieres": {
+            "Math": 6.17,
+            "Francais": 14.5,
+            "Anglais": 12.5,
+            "PC": 5.83,
+            "SVT": 10.83,
+            "HG": 11.83
+        },
+        "moyenne_generale": 10.28
+    },
+    {
+        "code": "AAD003",
+        "numero": "65281LKJ",
+        "prenom": "Saliou",
+        "nom": "DEME",
+        "date_naissance": "19/03/2005",
+        "classe": "5B",
+        "matieres": {
+            "Math": 9.92,
+            "Francais": 14.17,
+            "Anglais": 17.33,
+            "PC": 15.83,
+            "SVT": 11.83,
+            "HG": 17.17
+        },
+        "moyenne_generale": 14.38
+    },
+    {
+        "code": "AAD003",
+        "numero": "2007095KH",
+        "prenom": "Dinka",
+        "nom": "Ngadeu",
+        "date_naissance": "03/12/2001",
+        "classe": "3B",
+        "matieres": {
+            "Math": 14.17,
+            "Francais": 11.83,
+            "Anglais": 16.33,
+            "SVT": 12.33,
+            "HG": 16.5
+        },
+        "moyenne_generale": 14.23
+    },
+    {
+        "code": "AAD003",
+        "numero": "201607RK",
+        "prenom": "Mouhamed",
+        "nom": "BA",
+        "date_naissance": "19/06/1996",
+        "classe": "4C",
+        "matieres": {
+            "Math": 4.5,
+            "Francais": 14.5,
+            "Anglais": 14.5,
+            "PC": 5.83,
+            "SVT": 13.5,
+            "HG": 13.83
+        },
+        "moyenne_generale": 11.11
+    },
+    {
+        "code": "AAD003",
+        "numero": "20133HGF",
+        "prenom": "Siriman",
+        "nom": "DANSOKHO",
+        "date_naissance": "13/04/2010",
+        "classe": "6C",
+        "matieres": {
+            "Math": 4.5,
+            "Francais": 14.33,
+            "Anglais": 13.5,
+            "PC": 8.0,
+            "SVT": 14.5,
+            "HG": 12.33
+        },
+        "moyenne_generale": 11.19
+    },
+    {
+        "code": "AAD003",
+        "numero": "2017ZEA5L",
+        "prenom": "Sokhna",
+        "nom": "TOURE",
+        "date_naissance": "23/04/2014",
+        "classe": "3C",
+        "matieres": {
+            "Math": 7.83,
+            "Francais": 15.0,
+            "Anglais": 14.83,
+            "PC": 9.17,
+            "SVT": 15.67,
+            "HG": 13.33
+        },
+        "moyenne_generale": 12.64
+    },
+    {
+        "code": "AAD004",
+        "numero": "LIHGFR0",
+        "prenom": "Nourou",
+        "nom": "Diallo",
+        "date_naissance": "02/01/2012",
+        "classe": "6A",
+        "matieres": {
+            "Math": 11.5,
+            "Francais": 12.83,
+            "Anglais": 16.5,
+            "PC": 9.17,
+            "SVT": 12.33,
+            "HG": 14.17
+        },
+        "moyenne_generale": 12.75
+    },
+    {
+        "code": "AAD005",
+        "numero": "40DKG6T",
+        "prenom": "awa",
+        "nom": "Diallo",
+        "date_naissance": "21/10/2004",
+        "classe": "6A",
+        "matieres": {
+            "PC": 16.11,
+            "Math": 16.24,
+            "Francais": 12.33,
+            "Anglais": 13.33,
+            "SVT": 12.17,
+            "HG": 13.67
+        },
+        "moyenne_generale": 13.97
+    },
+    {
+        "code": "AAD005",
+        "numero": "44DSW78",
+        "prenom": "Sidy",
+        "nom": "Ndiaye",
+        "date_naissance": "19/01/2005",
+        "classe": "4B",
+        "matieres": {
+            "PC": 9.56,
+            "Math": 10.33,
+            "Francais": 14.67,
+            "Anglais": 14.0,
+            "SVT": 10.67,
+            "HG": 14.0
+        },
+        "moyenne_generale": 12.21
+    },
+    {
+        "code": "AAD005",
+        "numero": "20LH7BG",
+        "prenom": "Fallou",
+        "nom": "FAYE",
+        "date_naissance": "19/04/2002",
+        "classe": "4A",
+        "matieres": {
+            "PC": 11.56,
+            "Math": 10.12,
+            "Francais": 12.67,
+            "Anglais": 10.67,
+            "SVT": 10.5,
+            "HG": 9.33
+        },
+        "moyenne_generale": 10.81
+    },
+    {
+        "code": "AAD005",
+        "numero": "8D805GT",
+        "prenom": "Seyni",
+        "nom": "Diop",
+        "date_naissance": "29/09/2005",
+        "classe": "3A",
+        "matieres": {
+            "Math": 13.5,
+            "Francais": 11.67,
+            "Anglais": 13.75,
+            "PC": 9.67,
+            "SVT": 12.0,
+            "HG": 12.0
+        },
+        "moyenne_generale": 12.1
+    },
+    {
+        "code": "AAD005",
+        "numero": "9HBW36T",
+        "prenom": "Aliou",
+        "nom": "Ba",
+        "date_naissance": "01/01/2006",
+        "classe": "5A",
+        "matieres": {
+            "Math": 15.17,
+            "Francais": 9.44,
+            "Anglais": 14.52,
+            "PC": 15.0,
+            "SVT": 12.33,
+            "HG": 15.0
+        },
+        "moyenne_generale": 13.58
+    },
+    {
+        "code": "AAD005",
+        "numero": "W8NNJ6T",
+        "prenom": "Ousmane",
+        "nom": "Ndoye",
+        "date_naissance": "09/04/2004",
+        "classe": "5B",
+        "matieres": {
+            "Math": 18.33,
+            "Francais": 13.11,
+            "Anglais": 14.53,
+            "PC": 17.67,
+            "SVT": 14.33,
+            "HG": 15.0
+        },
+        "moyenne_generale": 15.49
+    },
+    {
+        "code": "AAD005",
+        "numero": "23YLTXT",
+        "prenom": "Thierno",
+        "nom": "Baal",
+        "date_naissance": "22/01/2006",
+        "classe": "3A",
+        "matieres": {
+            "PC": 12.67,
+            "Math": 9.89,
+            "Francais": 11.0,
+            "Anglais": 13.33,
+            "SVT": 10.44,
+            "HG": 9.33
+        },
+        "moyenne_generale": 11.11
+    },
+    {
+        "code": "AAD005",
+        "numero": "48DKG8T",
+        "prenom": "Boubou",
+        "nom": "Baal",
+        "date_naissance": "26/04/2003",
+        "classe": "4B",
+        "matieres": {
+            "PC": 11.33,
+            "Math": 13.67,
+            "Francais": 14.67,
+            "Anglais": 12.0,
+            "SVT": 13.67,
+            "HG": 15.33
+        },
+        "moyenne_generale": 13.45
+    },
+    {
+        "code": "AAD005",
+        "numero": "Q7XVP6G",
+        "prenom": "Bineta",
+        "nom": "Seck",
+        "date_naissance": "12/02/2005",
+        "classe": "3A",
+        "matieres": {
+            "PC": 14.33,
+            "Math": 12.33,
+            "Francais": 15.0,
+            "Anglais": 10.0,
+            "SVT": 9.56,
+            "HG": 9.33
+        },
+        "moyenne_generale": 11.76
+    },
+    {
+        "code": "AAD005",
+        "numero": "M67KQV7",
+        "prenom": "Albert",
+        "nom": "Correa",
+        "date_naissance": "26/12/2003",
+        "classe": "6A",
+        "matieres": {
+            "PC": 10.0,
+            "Math": 10.33,
+            "Francais": 9.33,
+            "SVT": 11.33,
+            "HG": 12.33
+        },
+        "moyenne_generale": 10.66
+    },
+    {
+        "code": "AAD007",
+        "numero": "H18AC4W",
+        "prenom": "Mouhamed",
+        "nom": "BA",
+        "date_naissance": "14/01/2005",
+        "classe": "6A",
+        "matieres": {
+            "Math": 13.5,
+            "Francais": 11.67,
+            "Anglais": 13.75,
+            "PC": 9.67,
+            "SVT": 12.0,
+            "HG": 12.0
+        },
+        "moyenne_generale": 12.1
+    },
+    {
+        "code": "AAD007",
+        "numero": "EPJHQQ5",
+        "prenom": "Fallou",
+        "nom": "DIAW",
+        "date_naissance": "12/08/2006",
+        "classe": "3B",
+        "matieres": {
+            "PC": 9.67,
+            "   Math": 12.83,
+            "Francais": 13.0,
+            "Anglais": 14.27,
+            "SVT": 12.0,
+            "HG": 14.0
+        },
+        "moyenne_generale": 12.63
+    },
+    {
+        "code": "AAD007",
+        "numero": "KM729R9",
+        "prenom": "Marie",
+        "nom": "NDIAYE",
+        "date_naissance": "19/02/2007",
+        "classe": "3A",
+        "matieres": {
+            "PC": 9.67,
+            "   Math": 12.83,
+            "Francais": 11.17,
+            "Anglais": 14.6,
+            "SVT": 12.0,
+            "HG": 12.33
+        },
+        "moyenne_generale": 12.1
+    },
+    {
+        "code": "AAD007",
+        "numero": "Q7U2XFP",
+        "prenom": "Abdou",
+        "nom": "DEME",
+        "date_naissance": "16/01/2004",
+        "classe": "4A",
+        "matieres": {
+            "Math": 14.71,
+            "PC": 9.67,
+            "Francais": 11.17,
+            "SVT": 12.0,
+            "HG": 12.0,
+            "Anglais": 14.5
+        },
+        "moyenne_generale": 12.34
+    },
+    {
+        "code": "AAD007",
+        "numero": "0747PMJ",
+        "prenom": "Baye Ndiaga",
+        "nom": "Ndao",
+        "date_naissance": "08/08/2008",
+        "classe": "5B",
+        "matieres": {
+            "SVT": 13.0,
+            "HG": 12.0,
+            "Math": 12.83,
+            "Francais": 11.83,
+            "Anglais": 14.5,
+            "PC": 10.0
+        },
+        "moyenne_generale": 12.36
+    },
+    {
+        "code": "AAD007",
+        "numero": "18G9C4L",
+        "prenom": "Abdoulaye",
+        "nom": "DIEYE",
+        "date_naissance": "01/01/2002",
+        "classe": "6B",
+        "matieres": {
+            "PC": 9.67,
+            "   Math": 12.83,
+            "Francais": 11.17,
+            "Anglais": 14.6,
+            "SVT": 12.0,
+            "HG": 12.33
+        },
+        "moyenne_generale": 12.1
+    },
+    {
+        "code": "AAD007",
+        "numero": "UQI7FN8",
+        "prenom": "Keys",
+        "nom": "Cyrille",
+        "date_naissance": "07/11/2007",
+        "classe": "4A",
+        "matieres": {
+            "Math": 14.29,
+            "PC": 16.67,
+            "Francais": 12.17,
+            "SVT": 12.25,
+            "HG": 13.0,
+            "Anglais": 14.37
+        },
+        "moyenne_generale": 13.79
+    },
+    {
+        "code": "AAD007",
+        "numero": "9H37AKZ",
+        "prenom": "Joakim",
+        "nom": "LOW",
+        "date_naissance": "20/12/2002",
+        "classe": "4A",
+        "matieres": {
+            "PC": 9.67,
+            "   Math": 12.83,
+            "Francais": 13.0,
+            "Anglais": 14.27,
+            "SVT": 12.0,
+            "HG": 14.0
+        },
+        "moyenne_generale": 12.63
+    },
+    {
+        "code": "AAD007",
+        "numero": "6691DTO",
+        "prenom": "Karin",
+        "nom": "Ndour",
+        "date_naissance": "07/07/2003",
+        "classe": "5B",
+        "matieres": {
+            "SVT": 12.11,
+            "HG": 12.67,
+            "Math": 15.32,
+            "Francais": 12.17,
+            "Anglais": 16.17,
+            "PC": 9.0
+        },
+        "moyenne_generale": 12.91
+    },
+    {
+        "code": "AAD007",
+        "numero": "8YM0304",
+        "prenom": "Iniess",
+        "nom": "KIBINDA",
+        "date_naissance": "15/08/2005",
+        "classe": "6A",
+        "matieres": {
+            "Math": 13.5,
+            "Francais": 11.33,
+            "Anglais": 13.25,
+            "PC": 10.67,
+            "SVT": 11.92,
+            "HG": 10.0
+        },
+        "moyenne_generale": 11.78
+    },
+    {
+        "code": "ABD009",
+        "numero": "345ERTH",
+        "prenom": "Wade",
+        "nom": "Abdou",
+        "date_naissance": "31/12/2007",
+        "classe": "6D",
+        "matieres": {
+            "Math": 12.67,
+            "Francais": 11.67,
+            "Anglais": 13.32,
+            "PC": 7.33,
+            "SVT": 10.67,
+            "HG": 9.67
+        },
+        "moyenne_generale": 10.89
+    },
+    {
+        "code": "ABD009",
+        "numero": "SDFTY34",
+        "prenom": "Mbol",
+        "nom": "Senir",
+        "date_naissance": "24/02/2015",
+        "classe": "4B",
+        "matieres": {
+            "Math": 6.33,
+            "Francais": 10.78,
+            "Anglais": 13.32,
+            "PC": 13.0,
+            "SVT": 10.67,
+            "HG": 8.67
+        },
+        "moyenne_generale": 10.46
+    },
+    {
+        "code": "ABD009",
+        "numero": "ZRDFD4S",
+        "prenom": "Sylla",
+        "nom": "Ndiareme",
+        "date_naissance": "03/09/2005",
+        "classe": "3A",
+        "matieres": {
+            "Math": 10.83,
+            "Francais": 9.67,
+            "Anglais": 3.87,
+            "PC": 10.67,
+            "SVT": 10.67,
+            "HG": 3.67
+        },
+        "moyenne_generale": 8.23
+    },
+    {
+        "code": "ABD009",
+        "numero": "ERSTYDD",
+        "prenom": "Diop",
+        "nom": "Akapla",
+        "date_naissance": "03/05/1978",
+        "classe": "5C",
+        "matieres": {
+            "Math": 14.0,
+            "Francais": 9.0,
+            "Anglais": 3.98,
+            "PC": 10.67,
+            "SVT": 8.33,
+            "HG": 5.67
+        },
+        "moyenne_generale": 8.61
+    },
+    {
+        "code": "ABD009",
+        "numero": "DFGE67T",
+        "prenom": "Tounkho",
+        "nom": "Mbor",
+        "date_naissance": "17/10/2001",
+        "classe": "5B",
+        "matieres": {
+            "Math": 5.67,
+            "Francais": 12.11,
+            "Anglais": 5.98,
+            "PC": 10.67,
+            "SVT": 9.17,
+            "HG": 14.33
+        },
+        "moyenne_generale": 9.65
+    },
+    {
+        "code": "ABD009",
+        "numero": "23453RD",
+        "prenom": "Niani",
+        "nom": "yéré",
+        "date_naissance": "05/11/2012",
+        "classe": "3D",
+        "matieres": {
+            "Math": 9.0,
+            "Francais": 12.11,
+            "Anglais": 5.32,
+            "PC": 10.67,
+            "SVT": 9.5,
+            "HG": 13.0
+        },
+        "moyenne_generale": 9.93
+    },
+    {
+        "code": "ABD009",
+        "numero": "56GFSE6",
+        "prenom": "Samaké",
+        "nom": "Awa",
+        "date_naissance": "30/09/2005",
+        "classe": "5B",
+        "matieres": {
+            "Math": 5.5,
+            "Francais": 9.78,
+            "Anglais": 9.32,
+            "PC": 10.67,
+            "SVT": 10.67,
+            "HG": 9.67
+        },
+        "moyenne_generale": 9.27
+    },
+    {
+        "code": "ABD009",
+        "numero": "RTGHSDG",
+        "prenom": "Gueye",
+        "nom": "Ndol",
+        "date_naissance": "30/09/2006",
+        "classe": "5B",
+        "matieres": {
+            "Math": 12.33,
+            "Francais": 9.89,
+            "Anglais": 11.65,
+            "PC": 13.0,
+            "SVT": 6.58,
+            "HG": 13.67
+        },
+        "moyenne_generale": 11.19
+    },
+    {
+        "code": "ABN018",
+        "numero": "LSNP1OC",
+        "prenom": "Faye",
+        "nom": "Moosky",
+        "date_naissance": "23/04/1988",
+        "classe": "4C",
+        "matieres": {
+            "rançais": 12.83,
+            "Anglais": 11.83,
+            "SVT": 12.83,
+            "HG": 14.83,
+            "Science_Physique": 13.0,
+            "Math": 12.67
+        },
+        "moyenne_generale": 13.0
+    },
+    {
+        "code": "ABN018",
+        "numero": "PONAAM0",
+        "prenom": "Diop",
+        "nom": "Mayoro",
+        "date_naissance": "14/05/2002",
+        "classe": "6B",
+        "matieres": {
+            "Français": 14.67,
+            "Anglais": 17.0,
+            "SVT": 17.0,
+            "HG": 16.5,
+            "Science_Physique": 12.33,
+            "Math": 14.83
+        },
+        "moyenne_generale": 15.39
+    },
+    {
+        "code": "ABN018",
+        "numero": "83WERRE",
+        "prenom": "Morey",
+        "nom": "Wesh",
+        "date_naissance": "25/11/2004",
+        "classe": "3D",
+        "matieres": {
+            "Français": 14.0,
+            "Anglais": 17.67,
+            "SVT": 9.0,
+            "HG": 16.5,
+            "Science_Physique": 1.83,
+            "Math": 12.5
+        },
+        "moyenne_generale": 11.92
+    },
+    {
+        "code": "AFD006",
+        "numero": "2022HEC",
+        "prenom": "Gallas",
+        "nom": "SYLLA",
+        "date_naissance": "02/03/2000",
+        "classe": "6A",
+        "matieres": {
+            "Math": 16.67,
+            "Français": 12.33,
+            "Anglais": 18.0,
+            "PC": 11.17,
+            "SVT": 13.0,
+            "HG": 13.33
+        },
+        "moyenne_generale": 14.08
+    },
+    {
+        "code": "AFD006",
+        "numero": "2016EJKL",
+        "prenom": "Modou",
+        "nom": "SECK",
+        "date_naissance": "03/01/1999",
+        "classe": "5B",
+        "matieres": {
+            "Math": 6.89,
+            "Français": 10.44,
+            "Anglais": 14.67,
+            "PC": 8.67,
+            "SVT": 13.5,
+            "HG": 13.67
+        },
+        "moyenne_generale": 11.31
+    },
+    {
+        "code": "AFD006",
+        "numero": "2017ERT",
+        "prenom": "Elisabeth",
+        "nom": "MANTANE",
+        "date_naissance": "03/04/1996",
+        "classe": "4A",
+        "matieres": {
+            "Math": 13.5,
+            "Francais": 11.67,
+            "Anglais": 13.75,
+            "PC": 9.67,
+            "SVT": 12.0,
+            "HG": 12.0
+        },
+        "moyenne_generale": 12.1
+    },
+    {
+        "code": "AFD006",
+        "numero": "2019GHS",
+        "prenom": "Chris",
+        "nom": "BOISY",
+        "date_naissance": "04/09/2001",
+        "classe": "5C",
+        "matieres": {
+            "Math": 12.67,
+            "PC": 14.67,
+            "Francais": 13.67,
+            "SVT": 15.67,
+            "HG": 13.33
+        },
+        "moyenne_generale": 14.0
+    },
+    {
+        "code": "AFD006",
+        "numero": "20178XYZ",
+        "prenom": "Khabane",
+        "nom": "FALL",
+        "date_naissance": "27/12/1998",
+        "classe": "6C",
+        "matieres": {
+            "Math": 12.67,
+            "PC": 14.67,
+            "Francais": 13.67,
+            "SVT": 15.67,
+            "HG": 13.33,
+            "Anglais": 17.11
+        },
+        "moyenne_generale": 14.52
+    },
+    {
+        "code": "AFD006",
+        "numero": "2014TGR",
+        "prenom": "Marcelin",
+        "nom": "MENDY",
+        "date_naissance": "12/11/1992",
+        "classe": "6A",
+        "matieres": {
+            "Math": 4.5,
+            "Francais": 14.5,
+            "Anglais": 16.5,
+            "PC": 5.83,
+            "SVT": 10.17,
+            "HG": 16.5
+        },
+        "moyenne_generale": 11.33
+    },
+    {
+        "code": "AFD006",
+        "numero": "2020DFH",
+        "prenom": "Fatah",
+        "nom": "NDIAYE",
+        "date_naissance": "23/08/2000",
+        "classe": "4B",
+        "matieres": {
+            "PC": 9.67,
+            " Math": 12.83,
+            "Francais": 13.0,
+            "Anglais": 14.27,
+            "SVT": 12.0,
+            "HG": 14.0
+        },
+        "moyenne_generale": 12.63
+    },
+    {
+        "code": "AFD006",
+        "numero": "2019R3M",
+        "prenom": "Ben Omar",
+        "nom": "MOHAMED",
+        "date_naissance": "30/03/1999",
+        "classe": "3C",
+        "matieres": {
+            "Math": 17.78,
+            "Françcais": 16.33,
+            "Anglais": 9.5,
+            "PC": 16.33,
+            "SVT": 14.67,
+            "HG": 16.33
+        },
+        "moyenne_generale": 15.16
+    },
+    {
+        "code": "AFD006",
+        "numero": "2018JKH",
+        "prenom": "Zeyna",
+        "nom": "NDIAYE",
+        "date_naissance": "23/06/1998",
+        "classe": "4A",
+        "matieres": {
+            "Math": 12.67,
+            "PC": 14.67,
+            "Francais": 13.67,
+            "SVT": 15.67,
+            "HG": 13.33
+        },
+        "moyenne_generale": 14.0
+    },
+    {
+        "code": "AID011",
+        "numero": "201305PG8",
+        "prenom": "FARA",
+        "nom": "DIAW",
+        "date_naissance": "09/06/1995",
+        "classe": "6A",
+        "matieres": {
+            "Français": 14.33,
+            "Anglais": 18.33,
+            "SVT": 9.5,
+            "HG": 15.17,
+            "Science_Physique": 17.33,
+            "Math": 15.67
+        },
+        "moyenne_generale": 15.05
+    },
+    {
+        "code": "AID011",
+        "numero": "201307PG8",
+        "prenom": "LEMOU",
+        "nom": "NDIOUR",
+        "date_naissance": "12/07/1996",
+        "classe": "3A",
+        "matieres": {
+            "PC": 9.67,
+            " Math": 12.83,
+            "Francais": 13.0,
+            "Anglais": 14.27,
+            "SVT": 12.0,
+            "HG": 14.0
+        },
+        "moyenne_generale": 12.63
+    },
+    {
+        "code": "AID011",
+        "numero": "201301PFT",
+        "prenom": "BIRAM",
+        "nom": "FAYE",
+        "date_naissance": "23/03/1999",
+        "classe": "3B",
+        "matieres": {
+            "PC": 9.67,
+            " Math": 12.83,
+            "Francais": 13.0,
+            "Anglais": 14.27,
+            "SVT": 12.0,
+            "HG": 14.0
+        },
+        "moyenne_generale": 12.63
+    },
+    {
+        "code": "AID011",
+        "numero": "201308PG7",
+        "prenom": "ALY",
+        "nom": "DIOUF",
+        "date_naissance": "22/05/1998",
+        "classe": "5C",
+        "matieres": {
+            "PC": 9.67,
+            " Math": 12.83,
+            "Francais": 11.17,
+            "Anglais": 14.6,
+            "SVT": 12.0,
+            "HG": 12.33
+        },
+        "moyenne_generale": 12.1
+    },
+    {
+        "code": "AID011",
+        "numero": "201306PH3",
+        "prenom": "DABA",
+        "nom": "DIOP",
+        "date_naissance": "24/09/1999",
+        "classe": "3D",
+        "matieres": {
+            "Math": 13.5,
+            "Francais": 11.67,
+            "Anglais": 13.75,
+            "PC": 9.67,
+            "SVT": 12.0,
+            "HG": 12.0
+        },
+        "moyenne_generale": 12.1
+    },
+    {
+        "code": "AID011",
+        "numero": "201302PL6",
+        "prenom": "DALY",
+        "nom": "DIENE",
+        "date_naissance": "12/10/1997",
+        "classe": "4B",
+        "matieres": {
+            "PC": 9.67,
+            " Math": 12.83,
+            "Francais": 11.17,
+            "Anglais": 14.6,
+            "SVT": 12.0,
+            "HG": 12.33
+        },
+        "moyenne_generale": 12.1
+    },
+    {
+        "code": "AID011",
+        "numero": "201305PY9",
+        "prenom": "ABOU",
+        "nom": "FALL",
+        "date_naissance": "23/12/1994",
+        "classe": "5D",
+        "matieres": {
+            "Math": 12.0,
+            "PC": 11.5,
+            "Francais": 14.67,
+            "SVT": 16.67,
+            "HG": 14.0,
+            "Anglais": 11.17
+        },
+        "moyenne_generale": 13.34
+    },
+    {
+        "code": "AID011",
+        "numero": "201306PT4",
+        "prenom": "SIDI",
+        "nom": "FAYE",
+        "date_naissance": "12/11/1993",
+        "classe": "3A",
+        "matieres": {
+            "PC": 9.67,
+            " Math": 12.83,
+            "Francais": 11.17,
+            "Anglais": 14.6,
+            "SVT": 12.0,
+            "HG": 12.33
+        },
+        "moyenne_generale": 12.1
+    },
+    {
+        "code": "AID011",
+        "numero": "201301PB7",
+        "prenom": "DOMINIQUE",
+        "nom": "SENE",
+        "date_naissance": "24/01/1998",
+        "classe": "3A",
+        "matieres": {
+            "Math": 15.54,
+            "PC": 9.67,
+            "Francais": 13.17,
+            "SVT": 11.83,
+            "HG": 12.33,
+            "Anglais": 14.5
+        },
+        "moyenne_generale": 12.84
+    },
+    {
+        "code": "AID011",
+        "numero": "201309OD3",
+        "prenom": "SALIF",
+        "nom": "NDIAYE",
+        "date_naissance": "26/06/1996",
+        "classe": "4C",
+        "matieres": {
+            "Math": 13.5,
+            "Francais": 11.33,
+            "Anglais": 13.25,
+            "PC": 10.67,
+            "SVT": 11.92,
+            "HG": 10.0
+        },
+        "moyenne_generale": 11.78
+    },
+    {
+        "code": "AKH014",
+        "numero": "2020UT6",
+        "prenom": "SORPHAKA",
+        "nom": "SIHARAJ",
+        "date_naissance": "11/09/2002",
+        "classe": "6B",
+        "matieres": {
+            "Math": 14.33,
+            "Francais": 13.33,
+            "Anglais": 12.5,
+            "PC": 9.83,
+            "SVT": 13.0,
+            "HG": 12.67
+        },
+        "moyenne_generale": 12.61
+    },
+    {
+        "code": "AKH014",
+        "numero": "2021IJ3",
+        "prenom": "LYDIE",
+        "nom": "LEFRANC",
+        "date_naissance": "04/06/2001",
+        "classe": "4B",
+        "matieres": {
+            "Math": 4.5,
+            "Francais": 14.5,
+            "Anglais": 16.5,
+            "PC": 5.83,
+            "SVT": 10.17,
+            "HG": 16.5
+        },
+        "moyenne_generale": 11.33
+    },
+    {
+        "code": "AKH014",
+        "numero": "PO0023R",
+        "prenom": "ERIC",
+        "nom": "DUPASQUIER",
+        "date_naissance": "02/09/1990",
+        "classe": "3C",
+        "matieres": {
+            "Math": 18.33,
+            "Francais": 13.11,
+            "Anglais": 14.53,
+            "PC": 17.67,
+            "SVT": 14.33,
+            "HG": 15.0
+        },
+        "moyenne_generale": 15.49
+    },
+    {
+        "code": "AKH014",
+        "numero": "1992I0E",
+        "prenom": "ABDERRAHMAN",
+        "nom": "MAHMOUD",
+        "date_naissance": "12/12/1999",
+        "classe": "4A",
+        "matieres": {
+            "Math": 13.5,
+            "Francais": 11.67,
+            "Anglais": 13.75,
+            "PC": 9.67,
+            "SVT": 12.0,
+            "HG": 12.0
+        },
+        "moyenne_generale": 12.1
+    },
+    {
+        "code": "AKH014",
+        "numero": "20L6TRA",
+        "prenom": "MIMOUNI",
+        "nom": "MIMOUNI",
+        "date_naissance": "12/07/1997",
+        "classe": "6A",
+        "matieres": {
+            "Math": 4.5,
+            "Francais": 14.5,
+            "Anglais": 16.5,
+            "PC": 5.83,
+            "SVT": 10.17,
+            "HG": 16.5
+        },
+        "moyenne_generale": 11.33
+    },
+    {
+        "code": "AKH014",
+        "numero": "9OIM76T",
+        "prenom": "EMILIE",
+        "nom": "GALEA",
+        "date_naissance": "04/07/1994",
+        "classe": "5A",
+        "matieres": {
+            "PC": 14.17,
+            "SVT": 14.5,
+            "FRANÇAIS": 12.83,
+            "ANGLAIS": 17.0
+        },
+        "moyenne_generale": 14.62
+    },
+    {
+        "code": "AKH014",
+        "numero": "30NB45E",
+        "prenom": "MAVEL",
+        "nom": "HAMAMA",
+        "date_naissance": "07/01/1998",
+        "classe": "3B",
+        "matieres": {
+            "PC": 14.17,
+            "SVT": 14.5,
+            "FRANÇAIS": 12.83,
+            "ANGLAIS": 17.0
+        },
+        "moyenne_generale": 14.62
+    },
+    {
+        "code": "AKH014",
+        "numero": "54FR342",
+        "prenom": "LAYE",
+        "nom": "Kamou",
+        "date_naissance": "04/03/2020",
+        "classe": "5C",
+        "matieres": {
+            "Math": 4.5,
+            "Francais": 14.5,
+            "Anglais": 16.5,
+            "PC": 5.83,
+            "SVT": 10.17,
+            "HG": 16.5
+        },
+        "moyenne_generale": 11.33
+    },
+    {
+        "code": "AKH014",
+        "numero": "8987BHT",
+        "prenom": "IBOU",
+        "nom": "MBAYE",
+        "date_naissance": "03/01/2000",
+        "classe": "3D",
+        "matieres": {
+            "SVT": 15.67,
+            "PC": 17.5,
+            "Anglais": 13.33,
+            "HG": 2.5,
+            "Math": 13.33
+        },
+        "moyenne_generale": 12.47
+    },
+    {
+        "code": "ALT020",
+        "numero": "CIDIE01",
+        "prenom": "Diégane",
+        "nom": "CISSE",
+        "date_naissance": "02/05/1932",
+        "classe": "5A",
+        "matieres": {
+            "MATH": 18.67,
+            "SVT": 10.67,
+            "PC": 14.5,
+            "ANGLAIS": 12.83,
+            "FRANCAIS": 8.83,
+            "HG": 14.67
+        },
+        "moyenne_generale": 13.36
+    },
+    {
+        "code": "ALT020",
+        "numero": "MN45LD5",
+        "prenom": "Mbegane",
+        "nom": "SENGHOR",
+        "date_naissance": "12/05/1968",
+        "classe": "4A",
+        "matieres": {
+            "MATH": 9.17,
+            "SVT": 13.5,
+            "PC": 9.33,
+            "ANGLAIS": 14.33,
+            "FRANCAIS": 13.33,
+            "HG": 12.33
+        },
+        "moyenne_generale": 12.0
+    },
+    {
+        "code": "ALT020",
+        "numero": "KF578FG",
+        "prenom": "Souma",
+        "nom": "MARA",
+        "date_naissance": "17/11/1921",
+        "classe": "3A",
+        "matieres": {
+            "MATH": 14.83,
+            "SVT": 17.17,
+            "PC": 15.67,
+            "ANGLAIS": 12.83,
+            "FRANCAIS": 10.5,
+            "HG": 10.67
+        },
+        "moyenne_generale": 13.61
+    },
+    {
+        "code": "ALT020",
+        "numero": "JROÙ457",
+        "prenom": "Sangoul",
+        "nom": "CONDOUL",
+        "date_naissance": "07/06/1945",
+        "classe": "6A",
+        "matieres": {
+            "MATH": 16.83,
+            "SVT": 17.5,
+            "PC": 11.5,
+            "ANGLAIS": 13.5,
+            "FRANCAIS": 13.17,
+            "HG": 11.5
+        },
+        "moyenne_generale": 14.0
+    },
+    {
+        "code": "ALT020",
+        "numero": "VF14HGZ",
+        "prenom": "NiouKH",
+        "nom": "TAMBEDOU",
+        "date_naissance": "18/12/1999",
+        "classe": "4B",
+        "matieres": {
+            "MATH": 11.0,
+            "SVT": 9.33,
+            "PC": 9.33,
+            "ANGLAIS": 14.5,
+            "FRANCAIS": 17.17,
+            "HG": 15.5
+        },
+        "moyenne_generale": 12.8
+    },
+    {
+        "code": "ALT020",
+        "numero": "RTOP15K",
+        "prenom": "Mbissine",
+        "nom": "SARR",
+        "date_naissance": "01/12/1996",
+        "classe": "5B",
+        "matieres": {
+            "MATH": 15.33,
+            "SVT": 14.5,
+            "PC": 16.0,
+            "ANGLAIS": 14.83,
+            "FRANCAIS": 14.33,
+            "HG": 13.83
+        },
+        "moyenne_generale": 14.8
+    },
+    {
+        "code": "ALT020",
+        "numero": "HGKE145",
+        "prenom": "Ndew",
+        "nom": "DEME",
+        "date_naissance": "15/02/1956",
+        "classe": "6B",
+        "matieres": {
+            "MATH": 15.67,
+            "SVT": 15.17,
+            "PC": 14.5,
+            "ANGLAIS": 11.0,
+            "FRANCAIS": 14.17,
+            "HG": 13.5
+        },
+        "moyenne_generale": 14.0
+    },
+    {
+        "code": "ALT020",
+        "numero": "54BFH54",
+        "prenom": "Fatou",
+        "nom": "KOITA",
+        "date_naissance": "15/11/1978",
+        "classe": "4B",
+        "matieres": {
+            "MATH": 15.83,
+            "SVT": 14.33,
+            "PC": 17.83,
+            "ANGLAIS": 16.0,
+            "FRANCAIS": 10.83,
+            "HG": 11.83
+        },
+        "moyenne_generale": 14.44
+    },
+    {
+        "code": "ALT020",
+        "numero": "DF85FUJ",
+        "prenom": "Pon",
+        "nom": "LABOU",
+        "date_naissance": "17/06/2002",
+        "classe": "5A",
+        "matieres": {
+            "MATH": 18.67,
+            "SVT": 12.0,
+            "PC": 9.17,
+            "ANGLAIS": 14.5,
+            "FRANCAIS": 17.17,
+            "HG": 16.33
+        },
+        "moyenne_generale": 14.64
+    },
+    {
+        "code": "AMB001",
+        "numero": "101465876kj",
+        "prenom": "Moussa",
+        "nom": "Gueye",
+        "date_naissance": "01/01/2000",
+        "classe": "6A",
+        "matieres": {
+            "PC": 14.17,
+            "SVT": 14.5,
+            "FRANÇAIS": 12.83,
+            "ANGLAIS": 17.0
+        },
+        "moyenne_generale": 14.62
+    },
+    {
+        "code": "AMB001",
+        "numero": "16382702l",
+        "prenom": "BALLA",
+        "nom": "DIOUF",
+        "date_naissance": "02/01/2000",
+        "classe": "6A",
+        "matieres": {
+            "PC": 14.17,
+            "SVT": 14.5,
+            "FRANÇAIS": 12.83,
+            "ANGLAIS": 17.0
+        },
+        "moyenne_generale": 14.62
+    },
+    {
+        "code": "AMB001",
+        "numero": "12889HI",
+        "prenom": "KAMOU",
+        "nom": "CAMARA",
+        "date_naissance": "03/01/2000",
+        "classe": "6A",
+        "matieres": {
+            "PC": 14.17,
+            "SVT": 14.5,
+            "FRANÇAIS": 12.83,
+            "ANGLAIS": 17.0
+        },
+        "moyenne_generale": 14.62
+    },
+    {
+        "code": "AMB001",
+        "numero": "1732919jj",
+        "prenom": "MODOU",
+        "nom": "DIOP",
+        "date_naissance": "04/01/2000",
+        "classe": "6A",
+        "matieres": {
+            "PC": 14.17,
+            "SVT": 14.5,
+            "FRANÇAIS": 12.83,
+            "ANGLAIS": 17.0
+        },
+        "moyenne_generale": 14.62
+    },
+    {
+        "code": "AMB001",
+        "numero": "127923ghj",
+        "prenom": "SOBLE",
+        "nom": "FALL",
+        "date_naissance": "05/01/2000",
+        "classe": "6A",
+        "matieres": {
+            "PC": 14.17,
+            "SVT": 14.5,
+            "FRANÇAIS": 12.83,
+            "ANGLAIS": 17.0
+        },
+        "moyenne_generale": 14.62
+    },
+    {
+        "code": "AMB001",
+        "numero": "1908GD",
+        "prenom": "PATHÉ",
+        "nom": "GAYE",
+        "date_naissance": "06/01/2000",
+        "classe": "6A",
+        "matieres": {
+            "PC": 14.17,
+            "SVT": 14.5,
+            "FRANÇAIS": 12.83,
+            "ANGLAIS": 17.0
+        },
+        "moyenne_generale": 14.62
+    },
+    {
+        "code": "AMB001",
+        "numero": "1382839hjklk",
+        "prenom": "JIM",
+        "nom": "HANN",
+        "date_naissance": "07/01/2000",
+        "classe": "6A",
+        "matieres": {
+            "PC": 14.17,
+            "SVT": 14.5,
+            "FRANÇAIS": 12.83,
+            "ANGLAIS": 17.0
+        },
+        "moyenne_generale": 14.62
+    },
+    {
+        "code": "AMB001",
+        "numero": "19937HH",
+        "prenom": "KABOU",
+        "nom": "JANN",
+        "date_naissance": "08/01/2000",
+        "classe": "6A",
+        "matieres": {
+            "PC": 14.17,
+            "SVT": 14.5,
+            "FRANÇAIS": 12.83,
+            "ANGLAIS": 17.0
+        },
+        "moyenne_generale": 14.62
+    },
+    {
+        "code": "AMB001",
+        "numero": "17282hh",
+        "prenom": "LAMINE",
+        "nom": "KA",
+        "date_naissance": "09/01/2000",
+        "classe": "6A",
+        "matieres": {
+            "PC": 14.17,
+            "SVT": 14.5,
+            "FRANÇAIS": 12.83,
+            "ANGLAIS": 17.0
+        },
+        "moyenne_generale": 14.62
+    },
+    {
+        "code": "AMB001",
+        "numero": "17329pp",
+        "prenom": "MOUSSA",
+        "nom": "LOUM",
+        "date_naissance": "10/01/2000",
+        "classe": "6A",
+        "matieres": {
+            "PC": 14.17,
+            "SVT": 14.5,
+            "FRANÇAIS": 12.83,
+            "ANGLAIS": 17.0
+        },
+        "moyenne_generale": 14.62
+    },
+    {
+        "code": "AMC002",
+        "numero": "AAAA0000",
+        "prenom": "MODOU",
+        "nom": "BA",
+        "date_naissance": "12/12/2005",
+        "classe": "3A",
+        "matieres": {
+            "PC": 14.17,
+            "SVT": 14.5,
+            "FRANÇAIS": 12.83,
+            "ANGLAIS": 17.0
+        },
+        "moyenne_generale": 14.62
+    },
+    {
+        "code": "AMC002",
+        "numero": "AAAA0001",
+        "prenom": "FATOU",
+        "nom": "BODIAN",
+        "date_naissance": "11/04/2006",
+        "classe": "3B",
+        "matieres": {
+            "PC": 14.17,
+            "SVT": 14.5,
+            "FRANÇAIS": 12.83,
+            "ANGLAIS": 17.0
+        },
+        "moyenne_generale": 14.62
+    },
+    {
+        "code": "AMC002",
+        "numero": "AAAA0002",
+        "prenom": "PAPE",
+        "nom": "CAMARA",
+        "date_naissance": "04/02/2009",
+        "classe": "4B",
+        "matieres": {
+            "PC": 14.17,
+            "SVT": 14.5,
+            "FRANÇAIS": 12.83,
+            "ANGLAIS": 17.0
+        },
+        "moyenne_generale": 14.62
+    },
+    {
+        "code": "AMC002",
+        "numero": "AAAA0003",
+        "prenom": "PHILO",
+        "nom": "CISSE",
+        "date_naissance": "25/03/2010",
+        "classe": "5B",
+        "matieres": {
+            "PC": 14.17,
+            "SVT": 14.5,
+            "FRANÇAIS": 12.83,
+            "ANGLAIS": 17.0
+        },
+        "moyenne_generale": 14.62
+    },
+    {
+        "code": "AMC002",
+        "numero": "AAAA0004",
+        "prenom": "KHADIM",
+        "nom": "DIOP",
+        "date_naissance": "04/02/2011",
+        "classe": "6B",
+        "matieres": {
+            "PC": 14.17,
+            "SVT": 14.5,
+            "FRANÇAIS": 12.83,
+            "ANGLAIS": 17.0
+        },
+        "moyenne_generale": 14.62
+    },
+    {
+        "code": "AMC002",
+        "numero": "AAAA0005",
+        "prenom": "KATY",
+        "nom": "FALL",
+        "date_naissance": "05/11/2010",
+        "classe": "6A",
+        "matieres": {
+            "PC": 14.17,
+            "SVT": 14.5,
+            "FRANÇAIS": 12.83,
+            "ANGLAIS": 17.0
+        },
+        "moyenne_generale": 14.62
+    },
+    {
+        "code": "AMC002",
+        "numero": "AAAA0006",
+        "prenom": "SOKHNA",
+        "nom": "NDIAYE",
+        "date_naissance": "06/08/2007",
+        "classe": "4B",
+        "matieres": {
+            "PC": 14.17,
+            "SVT": 14.5,
+            "FRANÇAIS": 12.83,
+            "ANGLAIS": 17.0
+        },
+        "moyenne_generale": 14.62
+    },
+    {
+        "code": "AMC002",
+        "numero": "AAAA0007",
+        "prenom": "CHEIKH",
+        "nom": "MBAYE",
+        "date_naissance": "07/06/2007",
+        "classe": "4A",
+        "matieres": {
+            "PC": 14.17,
+            "SVT": 14.5,
+            "FRANÇAIS": 12.83,
+            "ANGLAIS": 17.0
+        },
+        "moyenne_generale": 14.62
+    },
+    {
+        "code": "AMC002",
+        "numero": "AAAA0008",
+        "prenom": "PALLA",
+        "nom": "POUYE",
+        "date_naissance": "08/08/2007",
+        "classe": "5B",
+        "matieres": {
+            "PC": 14.17,
+            "SVT": 14.5,
+            "FRANÇAIS": 12.83,
+            "ANGLAIS": 17.0
+        },
+        "moyenne_generale": 14.62
+    },
+    {
+        "code": "AMC002",
+        "numero": "AAAA0009",
+        "prenom": "THIERNO",
+        "nom": "OUATARA",
+        "date_naissance": "09/09/2007",
+        "classe": "5A",
+        "matieres": {
+            "PC": 14.17,
+            "SVT": 14.5,
+            "FRANÇAIS": 12.83,
+            "ANGLAIS": 17.0
+        },
+        "moyenne_generale": 14.62
+    },
+    {
+        "code": "AMD013",
+        "numero": "E7812Z3",
+        "prenom": "ALY",
+        "nom": "DIOP",
+        "date_naissance": "12/04/1998",
+        "classe": "5A",
+        "matieres": {
+            "Math": 12.0,
+            "PC": 11.5,
+            "Francais": 14.67,
+            "SVT": 16.67,
+            "HG": 14.0,
+            "Anglais": 11.17
+        },
+        "moyenne_generale": 13.34
+    },
+    {
+        "code": "AMD013",
+        "numero": "Z781263",
+        "prenom": "FATOU",
+        "nom": "FAYE",
+        "date_naissance": "12/04/1997",
+        "classe": "6B",
+        "matieres": {
+            "Math": 12.83,
+            "PC": 15.83,
+            "Francais": 8.0,
+            "SVT": 9.83,
+            "HG": 13.0,
+            "Anglais": 12.67
+        },
+        "moyenne_generale": 12.03
+    },
+    {
+        "code": "AMD013",
+        "numero": "Z7812Z5",
+        "prenom": "ALIOUNE",
+        "nom": "DIOUM",
+        "date_naissance": "12/12/2011",
+        "classe": "3B",
+        "matieres": {
+            "PC": 9.67,
+            " Math": 12.83,
+            "Francais": 11.17,
+            "Anglais": 14.6,
+            "SVT": 12.0,
+            "HG": 12.33
+        },
+        "moyenne_generale": 12.1
+    },
+    {
+        "code": "AMD013",
+        "numero": "Z7812Z9",
+        "prenom": "MOUSSA",
+        "nom": "NDIAYE",
+        "date_naissance": "12/03/1999",
+        "classe": "3A",
+        "matieres": {
+            "Math": 13.5,
+            "Francais": 11.33,
+            "Anglais": 13.25,
+            "PC": 10.67,
+            "SVT": 11.92,
+            "HG": 10.0
+        },
+        "moyenne_generale": 11.78
+    },
+    {
+        "code": "AMD013",
+        "numero": "Z7852Z3",
+        "prenom": "MOUSTAPHA",
+        "nom": "FALL",
+        "date_naissance": "09/09/2012",
+        "classe": "6B",
+        "matieres": {
+            "Math": 13.5,
+            "Francais": 11.33,
+            "Anglais": 13.25,
+            "PC": 10.67,
+            "SVT": 11.92,
+            "HG": 10.0
+        },
+        "moyenne_generale": 11.78
+    },
+    {
+        "code": "AMD013",
+        "numero": "Z7812Z7",
+        "prenom": "IDRISSA",
+        "nom": "MBAYE",
+        "date_naissance": "15/05/2011",
+        "classe": "4A",
+        "matieres": {
+            "SVT": 12.11,
+            "HG": 14.0,
+            "Math": 14.35,
+            "Francais": 14.83,
+            "Anglais": 12.72,
+            "PC": 9.0
+        },
+        "moyenne_generale": 12.84
+    },
+    {
+        "code": "AMD013",
+        "numero": "Z7312Z3",
+        "prenom": "SEYDOU",
+        "nom": "TINE",
+        "date_naissance": "03/09/2000",
+        "classe": "5A",
+        "matieres": {
+            "Math": 13.5,
+            "Francais": 11.67,
+            "Anglais": 13.75,
+            "PC": 9.67,
+            "SVT": 12.0,
+            "HG": 12.0
+        },
+        "moyenne_generale": 12.1
+    },
+    {
+        "code": "AMD013",
+        "numero": "Z7832Z3",
+        "prenom": "MOUSSA",
+        "nom": "SANE",
+        "date_naissance": "29/12/2001",
+        "classe": "5A",
+        "matieres": {
+            "Math": 11.67,
+            "PC": 11.67,
+            "ANGLAIS": 14.0,
+            "SVT": 11.33,
+            "HG": 13.33,
+            "Francais": 12.33
+        },
+        "moyenne_generale": 12.39
+    },
+    {
+        "code": "AMD013",
+        "numero": "Z8812Z3",
+        "prenom": "OUMAR",
+        "nom": "TOURE",
+        "date_naissance": "29/11/2001",
+        "classe": "5B",
+        "matieres": {
+            "Math": 11.54,
+            "PC": 16.67,
+            "Francais": 12.17,
+            "SVT": 12.25,
+            "HG": 13.0,
+            "Anglais": 13.71
+        },
+        "moyenne_generale": 13.22
+    },
+    {
+        "code": "AMG015",
+        "numero": "SONA001",
+        "prenom": "FATOU",
+        "nom": "FAYE",
+        "date_naissance": "12/04/1993",
+        "classe": "6A",
+        "matieres": {
+            "Math": 4.5,
+            "Francais": 14.5,
+            "Anglais": 16.5,
+            "PC": 5.83,
+            "SVT": 10.17,
+            "HG": 16.5
+        },
+        "moyenne_generale": 11.33
+    },
+    {
+        "code": "AMG015",
+        "numero": "SONA002",
+        "prenom": "THIERNO",
+        "nom": "GAYE",
+        "date_naissance": "14/02/1992",
+        "classe": "6B",
+        "matieres": {
+            "Math": 4.5,
+            "Francais": 14.5,
+            "Anglais": 16.5,
+            "PC": 5.83,
+            "SVT": 10.17,
+            "HG": 16.5
+        },
+        "moyenne_generale": 11.33
+    },
+    {
+        "code": "AMG015",
+        "numero": "SONA003",
+        "prenom": "YOUSSOU",
+        "nom": "DIOP",
+        "date_naissance": "12/06/1994",
+        "classe": "5A",
+        "matieres": {
+            "Math": 4.5,
+            "Francais": 14.5,
+            "Anglais": 16.5,
+            "PC": 5.83,
+            "SVT": 10.17,
+            "HG": 16.5
+        },
+        "moyenne_generale": 11.33
+    },
+    {
+        "code": "AMG015",
+        "numero": "SONA004",
+        "prenom": "PETIT",
+        "nom": "WAGNE",
+        "date_naissance": "12/07/1995",
+        "classe": "5B",
+        "matieres": {
+            "Math": 4.5,
+            "Francais": 14.5,
+            "Anglais": 16.5,
+            "PC": 5.83,
+            "SVT": 10.17,
+            "HG": 16.5
+        },
+        "moyenne_generale": 11.33
+    },
+    {
+        "code": "AMG015",
+        "numero": "SONA005",
+        "prenom": "GALAYE",
+        "nom": "CISSE",
+        "date_naissance": "04/03/1995",
+        "classe": "4A",
+        "matieres": {
+            "Math": 4.5,
+            "Francais": 14.5,
+            "Anglais": 16.5,
+            "PC": 5.83,
+            "SVT": 10.17,
+            "HG": 16.5
+        },
+        "moyenne_generale": 11.33
+    },
+    {
+        "code": "AMG015",
+        "numero": "SONA006",
+        "prenom": "PATA",
+        "nom": "GOMIS",
+        "date_naissance": "01/06/1997",
+        "classe": "4B",
+        "matieres": {
+            "Math": 4.5,
+            "Francais": 14.5,
+            "Anglais": 16.5,
+            "PC": 5.83,
+            "SVT": 10.17,
+            "HG": 16.5
+        },
+        "moyenne_generale": 11.33
+    },
+    {
+        "code": "AMG015",
+        "numero": "SONA007",
+        "prenom": "BALLA",
+        "nom": "SANE",
+        "date_naissance": "09/09/1999",
+        "classe": "3A",
+        "matieres": {
+            "Math": 4.5,
+            "Francais": 14.5,
+            "Anglais": 16.5,
+            "PC": 5.83,
+            "SVT": 10.17,
+            "HG": 16.5
+        },
+        "moyenne_generale": 11.33
+    },
+    {
+        "code": "AMG015",
+        "numero": "SONA008",
+        "prenom": "SADIO",
+        "nom": "SAGNA",
+        "date_naissance": "06/06/1999",
+        "classe": "3B",
+        "matieres": {
+            "Math": 4.5,
+            "Francais": 14.5,
+            "Anglais": 16.5,
+            "PC": 5.83,
+            "SVT": 10.17,
+            "HG": 16.5
+        },
+        "moyenne_generale": 11.33
+    },
+    {
+        "code": "AMG015",
+        "numero": "SONA009",
+        "prenom": "MAREME",
+        "nom": "NIANG",
+        "date_naissance": "12/12/1996",
+        "classe": "6A",
+        "matieres": {
+            "Math": 4.5,
+            "Francais": 14.5,
+            "Anglais": 16.5,
+            "PC": 5.83,
+            "SVT": 10.17,
+            "HG": 16.5
+        },
+        "moyenne_generale": 11.33
+    },
+    {
+        "code": "AMK016",
+        "numero": "A7723ML",
+        "prenom": "Moussa",
+        "nom": "Kane",
+        "date_naissance": "29/12/2001",
+        "classe": "6A",
+        "matieres": {
+            "Math": 12.0,
+            "PC": 11.5,
+            "Francais": 14.67,
+            "SVT": 16.67,
+            "HG": 14.0,
+            "Anglais": 11.17
+        },
+        "moyenne_generale": 13.34
+    },
+    {
+        "code": "AMK016",
+        "numero": "Z7812Z3",
+        "prenom": "Mousona",
+        "nom": "Konimba",
+        "date_naissance": "12/12/2009",
+        "classe": "3B",
+        "matieres": {
+            "Math": 16.33,
+            "PC": 12.0,
+            "Francais": 17.22,
+            "SVT": 17.0,
+            "HG": 15.33,
+            "Anglais": 13.33
+        },
+        "moyenne_generale": 15.2
+    },
+    {
+        "code": "AMK016",
+        "numero": "M770231",
+        "prenom": "Mustapha",
+        "nom": "Ilimani",
+        "date_naissance": "12/04/1997",
+        "classe": "3B",
+        "matieres": {
+            "Math": 11.67,
+            "PC": 12.0,
+            "Francais": 11.83,
+            "SVT": 15.83,
+            "HG": 16.67,
+            "Anglais": 17.0
+        },
+        "moyenne_generale": 14.17
+    },
+    {
+        "code": "AMK016",
+        "numero": "JH23GH3",
+        "prenom": "Mamadou",
+        "nom": "Loum",
+        "date_naissance": "12/12/2011",
+        "classe": "3A",
+        "matieres": {
+            "Math": 12.83,
+            "PC": 15.83,
+            "Francais": 8.0,
+            "SVT": 9.83,
+            "HG": 13.0,
+            "Anglais": 12.67
+        },
+        "moyenne_generale": 12.03
+    },
+    {
+        "code": "AMK016",
+        "numero": "SX34AZ2",
+        "prenom": "Souleyni",
+        "nom": "Gaye",
+        "date_naissance": "12/03/1999",
+        "classe": "6B",
+        "matieres": {
+            "Math": 11.0,
+            "PC": 9.83,
+            "Francais": 12.0,
+            "SVT": 15.67,
+            "HG": 11.67,
+            "Anglais": 11.5
+        },
+        "moyenne_generale": 11.95
+    },
+    {
+        "code": "AMK016",
+        "numero": "E9D45JJ",
+        "prenom": "Cheikh",
+        "nom": "Hann",
+        "date_naissance": "09/09/2012",
+        "classe": "3A",
+        "matieres": {
+            "Math": 12.67,
+            "PC": 14.67,
+            "Francais": 13.67,
+            "SVT": 15.67,
+            "HG": 13.33,
+            "Anglais": 17.11
+        },
+        "moyenne_generale": 14.52
+    },
+    {
+        "code": "AMK016",
+        "numero": "HIE938J",
+        "prenom": "Aliou",
+        "nom": "Kane",
+        "date_naissance": "15/05/2011",
+        "classe": "6B",
+        "matieres": {
+            "Math": 20.0,
+            "PC": 20.0,
+            "Francais": 14.33,
+            "SVT": 19.0,
+            "HG": 8.0,
+            "Anglais": 11.83
+        },
+        "moyenne_generale": 15.53
+    },
+    {
+        "code": "AMK016",
+        "numero": "23JHNB2",
+        "prenom": "Charles",
+        "nom": "Ngimbona",
+        "date_naissance": "03/09/2000",
+        "classe": "3B",
+        "matieres": {
+            "Math": 10.67,
+            "PC": 10.78,
+            "Francais": 17.56,
+            "SVT": 7.67,
+            "HG": 19.0,
+            "Anglais": 18.67
+        },
+        "moyenne_generale": 14.06
+    },
+    {
+        "code": "AMK016",
+        "numero": "HJ293D4",
+        "prenom": "Mbalanga",
+        "nom": "Ikouna",
+        "date_naissance": "01/01/2001",
+        "classe": "3A",
+        "matieres": {
+            "Math": 11.89,
+            "PC": 11.5,
+            "Francais": 14.67,
+            "SVT": 16.67,
+            "HG": 14.0,
+            "Anglais": 11.17
+        },
+        "moyenne_generale": 13.32
+    },
+    {
+        "code": "AOD010",
+        "numero": "DLEDQDO",
+        "prenom": "abdou",
+        "nom": "ndiaye",
+        "date_naissance": "21/03/2005",
+        "classe": "4A",
+        "matieres": {
+            "HG": 16.33,
+            "PC": 17.0,
+            "Francais": 11.5,
+            "SVT": 14.5,
+            "Math": 14.33,
+            "Anglais": 14.83
+        },
+        "moyenne_generale": 14.75
+    },
+    {
+        "code": "AOD010",
+        "numero": "XSDEF12",
+        "prenom": "fatou",
+        "nom": "gueye",
+        "date_naissance": "03/04/2005",
+        "classe": "4B",
+        "matieres": {
+            "HG": 11.33,
+            "SVT": 9.0,
+            "Francais": 6.83,
+            "PC": 8.33,
+            "Math": 18.67,
+            "Anglais": 12.67
+        },
+        "moyenne_generale": 11.14
+    },
+    {
+        "code": "AOD010",
+        "numero": "DEGLAC4",
+        "prenom": "saly",
+        "nom": "fall",
+        "date_naissance": "06/12/2007",
+        "classe": "6B",
+        "matieres": {
+            "HG": 13.67,
+            "SVT": 16.5,
+            "Francais": 13.17,
+            "PC": 11.0,
+            "Math": 11.67,
+            "Anglais": 17.33
+        },
+        "moyenne_generale": 13.89
+    },
+    {
+        "code": "AOD010",
+        "numero": "DZFXML5",
+        "prenom": "amy",
+        "nom": "Lo",
+        "date_naissance": "08/03/2003",
+        "classe": "3A",
+        "matieres": {
+            "HG": 13.67,
+            "SVT": 16.5,
+            "Francais": 13.17,
+            "PC": 11.0,
+            "Math": 11.67,
+            "Anglais": 17.33
+        },
+        "moyenne_generale": 13.89
+    },
+    {
+        "code": "AOD010",
+        "numero": "DZLSWQ7",
+        "prenom": "salif",
+        "nom": "sambe",
+        "date_naissance": "18/03/2004",
+        "classe": "3A",
+        "matieres": {
+            "Math": 12.0,
+            "PC": 13.5,
+            "ANGLAIS": 14.0,
+            "SVT": 16.0,
+            "HG": 14.0,
+            "Francais": 16.83
+        },
+        "moyenne_generale": 14.39
+    },
+    {
+        "code": "AOD010",
+        "numero": "LFNJESM",
+        "prenom": "jean",
+        "nom": "sambou",
+        "date_naissance": "19/05/2006",
+        "classe": "5B",
+        "matieres": {
+            "SVT": 14.33,
+            "PC": 19.67,
+            "Anglais": 8.33,
+            "Math": 17.0,
+            "HG": 10.67,
+            "Francais": 11.04
+        },
+        "moyenne_generale": 13.51
+    },
+    {
+        "code": "AOD010",
+        "numero": "JHDHRE8",
+        "prenom": "jeannette",
+        "nom": "sene",
+        "date_naissance": "20/12/2007",
+        "classe": "6B",
+        "matieres": {
+            "Math": 11.67,
+            "PC": 11.67,
+            "ANGLAIS": 14.0,
+            "SVT": 11.33,
+            "HG": 13.33,
+            "Francais": 12.33
+        },
+        "moyenne_generale": 12.39
+    },
+    {
+        "code": "AOD010",
+        "numero": "JGRHFNE",
+        "prenom": "pathe",
+        "nom": "sy",
+        "date_naissance": "31/01/2006",
+        "classe": "5A",
+        "matieres": {
+            "SVT": 11.33,
+            "PC": 11.33,
+            "Anglais": 12.83,
+            "Math": 13.0,
+            "HG": 13.33,
+            "Francais": 14.04
+        },
+        "moyenne_generale": 12.64
+    },
+    {
+        "code": "AOD010",
+        "numero": "LSXNEB0",
+        "prenom": "modou",
+        "nom": "gueye",
+        "date_naissance": "03/01/2002",
+        "classe": "3B",
+        "matieres": {
+            "SVT": 14.33,
+            "PC": 19.67,
+            "Anglais": 8.33,
+            "Math": 17.0,
+            "HG": 10.67,
+            "Francais": 11.04
+        },
+        "moyenne_generale": 13.51
+    },
+    {
+        "code": "ASK017",
+        "numero": "OKYLDC8",
+        "prenom": "Ousmane",
+        "nom": "KANE",
+        "date_naissance": "07/12/2007",
+        "classe": "4A",
+        "matieres": {
+            "Math": 11.0,
+            "SVT": 8.5,
+            "PC": 9.33,
+            "Français": 14.83,
+            "Anglais": 18.17
+        },
+        "moyenne_generale": 12.37
+    },
+    {
+        "code": "ASK017",
+        "numero": "DKBLMT7",
+        "prenom": "Djiby",
+        "nom": "KONATE",
+        "date_naissance": "09/06/2010",
+        "classe": "6B",
+        "matieres": {
+            "Math": 15.67,
+            "HG": 13.5,
+            "SVT": 12.83,
+            "Français": 14.67,
+            "Anglais": 17.67
+        },
+        "moyenne_generale": 14.87
+    },
+    {
+        "code": "ASK017",
+        "numero": "CMGBDK9",
+        "prenom": "Christelle",
+        "nom": "MENDY",
+        "date_naissance": "11/10/2006",
+        "classe": "3B",
+        "matieres": {
+            "Math": 16.0,
+            "PC": 16.33,
+            "SVT": 17.67,
+            "Français": 10.0,
+            "HG": 10.17,
+            "Anglais": 14.33
+        },
+        "moyenne_generale": 14.08
+    },
+    {
+        "code": "ASK017",
+        "numero": "YOSADK1",
+        "prenom": "Yankoba",
+        "nom": "OUEDRAOGO",
+        "date_naissance": "15/02/2009",
+        "classe": "5A",
+        "matieres": {
+            "Math": 13.33,
+            "SVT": 13.17,
+            "HG": 13.83,
+            "Anglais": 15.33,
+            "Français": 16.0
+        },
+        "moyenne_generale": 14.33
+    },
+    {
+        "code": "ASK017",
+        "numero": "SFSADK2",
+        "prenom": "Salimata",
+        "nom": "FALL",
+        "date_naissance": "02/08/2010",
+        "classe": "6A",
+        "matieres": {
+            "Math": 10.33,
+            "SVT": 11.33,
+            "HG": 15.17,
+            "Anglais": 17.33,
+            "Français": 16.83
+        },
+        "moyenne_generale": 14.2
+    },
+    {
+        "code": "ASK017",
+        "numero": "MDMTDK9",
+        "prenom": "Mamy",
+        "nom": "DIOP",
+        "date_naissance": "25/09/2005",
+        "classe": "3A",
+        "matieres": {
+            "Math": 11.0,
+            "PC": 11.0,
+            "SVT": 12.33,
+            "Anglais": 14.67,
+            "Français": 11.33
+        },
+        "moyenne_generale": 12.07
+    },
+    {
+        "code": "ASK017",
+        "numero": "MTBFCA2",
+        "prenom": "Mounkoudy",
+        "nom": "TAPSOBA",
+        "date_naissance": "08/12/2008",
+        "classe": "4B",
+        "matieres": {
+            "Anglais": 10.0,
+            "Math": 18.83,
+            "PC": 15.17,
+            "SVT": 17.0,
+            "HG": 10.83,
+            "Français": 9.83
+        },
+        "moyenne_generale": 13.61
+    },
+    {
+        "code": "ASK017",
+        "numero": "DDPADK7",
+        "prenom": "Dieynaba",
+        "nom": "DIA",
+        "date_naissance": "01/05/2008",
+        "classe": "4B",
+        "matieres": {
+            "Math": 9.33,
+            "PC": 11.67,
+            "SVT": 11.17,
+            "Français": 14.0,
+            "Anglais": 17.67
+        },
+        "moyenne_generale": 12.77
+    },
+    {
+        "code": "ASK017",
+        "numero": "ADBMML5",
+        "prenom": "Aliou",
+        "nom": "DIOGOSOUMA",
+        "date_naissance": "03/10/2009",
+        "classe": "5B",
+        "matieres": {
+            "Français": 13.0,
+            "Anglais": 15.0,
+            "HG": 16.0,
+            "SVT": 15.67,
+            "Math": 16.67
+        },
+        "moyenne_generale": 15.27
+    },
+    {
+        "code": "ASK017",
+        "numero": "ABHLMY1",
+        "prenom": "Angelline",
+        "nom": "BAOBEY",
+        "date_naissance": "18/03/2006",
+        "classe": "3A",
+        "matieres": {
+            "SVT": 15.67,
+            "Math": 18.17,
+            "PC": 16.17,
+            "Français": 15.33,
+            "HG": 13.67,
+            "Anglais": 15.33
+        },
+        "moyenne_generale": 15.72
+    },
+    {
+        "code": "BAD008",
+        "numero": "AF32IBC",
+        "prenom": "OUSSEYOU",
+        "nom": "FALL",
+        "date_naissance": "03/07/2000",
+        "classe": "3B",
+        "matieres": {
+            "Math": 15.33,
+            "Francais": 12.67,
+            "Anglais": 11.33,
+            "PC": 11.0,
+            "SVT": 12.56,
+            "HG": 14.33
+        },
+        "moyenne_generale": 12.87
+    },
+    {
+        "code": "BAD008",
+        "numero": "M60GRTL",
+        "prenom": "SOKHNA",
+        "nom": "TINE",
+        "date_naissance": "25/02/2005",
+        "classe": "4A",
+        "matieres": {
+            "Math": 10.17,
+            "Francais": 12.0,
+            "Anglais": 8.0,
+            "PC": 8.67,
+            "SVT": 12.0,
+            "HG": 10.67
+        },
+        "moyenne_generale": 10.25
+    },
+    {
+        "code": "BAD008",
+        "numero": "QNXKW09",
+        "prenom": "MARIEME",
+        "nom": "SINE",
+        "date_naissance": "29/08/2008",
+        "classe": "5B",
+        "matieres": {
+            "Math": 9.33,
+            "Francais": 10.17,
+            "Anglais": 8.33,
+            "PC": 11.67,
+            "SVT": 9.22,
+            "HG": 10.67
+        },
+        "moyenne_generale": 9.9
+    },
+    {
+        "code": "BAD008",
+        "numero": "G2NXW1L",
+        "prenom": "MOUSTAPHA",
+        "nom": "DIOUF",
+        "date_naissance": "05/07/2001",
+        "classe": "4B",
+        "matieres": {
+            "Math": 12.0,
+            "Francais": 11.67,
+            "Anglais": 10.5,
+            "PC": 11.67,
+            "SVT": 14.17,
+            "HG": 11.67
+        },
+        "moyenne_generale": 11.95
+    },
+    {
+        "code": "BAD008",
+        "numero": "UPNCG78",
+        "prenom": "ALIOU",
+        "nom": "KA",
+        "date_naissance": "10/05/2009",
+        "classe": "3B",
+        "matieres": {
+            "Math": 11.54,
+            "PC": 16.67,
+            "Francais": 12.17,
+            "SVT": 12.25,
+            "HG": 13.0,
+            "Anglais": 13.71
+        },
+        "moyenne_generale": 13.22
+    },
+    {
+        "code": "BAD008",
+        "numero": "WYI96BT",
+        "prenom": "MOUSSA",
+        "nom": "BA",
+        "date_naissance": "05/11/2010",
+        "classe": "6A",
+        "matieres": {
+            "Math": 13.67,
+            "Francais": 13.11,
+            "Anglais": 12.89,
+            "PC": 10.67,
+            "SVT": 11.92,
+            "HG": 10.0
+        },
+        "moyenne_generale": 12.04
+    },
+    {
+        "code": "BAD008",
+        "numero": "WYI96BT",
+        "prenom": "SEYNABOU",
+        "nom": "DIALLO",
+        "date_naissance": "16/02/2003",
+        "classe": "5B",
+        "matieres": {
+            "Math": 9.17,
+            "Francais": 13.0,
+            "Anglais": 10.83,
+            "PC": 13.33,
+            "SVT": 13.11,
+            "HG": 13.33
+        },
+        "moyenne_generale": 12.13
+    },
+    {
+        "code": "BAD008",
+        "numero": "FRTX54U",
+        "prenom": "FATOU",
+        "nom": "NDIAYE",
+        "date_naissance": "22/07/2005",
+        "classe": "4A",
+        "matieres": {
+            "Math": 9.83,
+            "Francais": 10.5,
+            "Anglais": 11.33,
+            "PC": 13.0,
+            "SVT": 12.33,
+            "HG": 12.67
+        },
+        "moyenne_generale": 11.61
+    },
+    {
+        "code": "BAD008",
+        "numero": "LJQC67L",
+        "prenom": "ASTOU",
+        "nom": "WADE",
+        "date_naissance": "12/12/2007",
+        "classe": "3B",
+        "matieres": {
+            "Math": 15.33,
+            "Francais": 12.67,
+            "Anglais": 11.78,
+            "PC": 11.0,
+            "SVT": 12.56,
+            "HG": 11.67
+        },
+        "moyenne_generale": 12.5
+    },
+    {
+        "code": "BAD008",
+        "numero": "KFPB32H",
+        "prenom": "ADJA",
+        "nom": "SY",
+        "date_naissance": "02/08/2002",
+        "classe": "6A",
+        "matieres": {
+            "Math": 13.5,
+            "Francais": 11.33,
+            "Anglais": 13.25,
+            "PC": 10.67,
+            "SVT": 11.92,
+            "HG": 10.0
+        },
+        "moyenne_generale": 11.78
+    },
+    {
+        "code": "BAF013",
+        "numero": "GH43RTU",
+        "prenom": "Aram",
+        "nom": "Ndao",
+        "date_naissance": "16/02/2000",
+        "classe": "3A",
+        "matieres": {
+            "Math": 13.5,
+            "Francais": 11.67,
+            "Anglais": 13.75,
+            "PC": 9.67,
+            "SVT": 12.0,
+            "HG": 12.0
+        },
+        "moyenne_generale": 12.1
+    },
+    {
+        "code": "BAF013",
+        "numero": "PLM56DS",
+        "prenom": "Pipo",
+        "nom": "Gomis",
+        "date_naissance": "16/03/1998",
+        "classe": "4B",
+        "matieres": {
+            "Math": 9.17,
+            "Francais": 13.33,
+            "Anglais": 15.36,
+            "PC": 9.67,
+            "SVT": 11.17,
+            "HG": 15.33
+        },
+        "moyenne_generale": 12.34
+    },
+    {
+        "code": "BAF013",
+        "numero": "GF34KHS",
+        "prenom": "Ousseynou",
+        "nom": "Diouf",
+        "date_naissance": "03/12/1992",
+        "classe": "5A",
+        "matieres": {
+            "Math": 12.5,
+            "Francais": 12.33,
+            "Anglais": 13.08,
+            "PC": 11.67,
+            "SVT": 12.75,
+            "HG": 17.33
+        },
+        "moyenne_generale": 13.28
+    },
+    {
+        "code": "BAF013",
+        "numero": "JHGF7F5",
+        "prenom": "Elimane",
+        "nom": "Diop",
+        "date_naissance": "12/01/2003",
+        "classe": "6A",
+        "matieres": {
+            "Math": 11.0,
+            "Francais": 15.67,
+            "Anglais": 12.25,
+            "PC": 18.33,
+            "SVT": 13.0,
+            "HG": 16.67
+        },
+        "moyenne_generale": 14.49
+    },
+    {
+        "code": "BAF013",
+        "numero": "RED76BH",
+        "prenom": "Babacar",
+        "nom": "Cissé",
+        "date_naissance": "03/06/2005",
+        "classe": "3B",
+        "matieres": {
+            "Math": 9.17,
+            "Francais": 13.33,
+            "Anglais": 15.36,
+            "PC": 9.67,
+            "SVT": 11.17,
+            "HG": 15.33
+        },
+        "moyenne_generale": 12.34
+    },
+    {
+        "code": "BAF013",
+        "numero": "GF69LBC",
+        "prenom": "Abdoulaye",
+        "nom": "Ba",
+        "date_naissance": "09/02/1992",
+        "classe": "3A",
+        "matieres": {
+            "Math": 15.83,
+            "Francais": 10.22,
+            "Anglais": 14.69,
+            "PC": 9.67,
+            "SVT": 11.75,
+            "HG": 16.67
+        },
+        "moyenne_generale": 13.14
+    },
+    {
+        "code": "BAF013",
+        "numero": "ML09RDS",
+        "prenom": "Alioune",
+        "nom": "Diallo",
+        "date_naissance": "08/07/1993",
+        "classe": "4B",
+        "matieres": {
+            "Math": 10.0,
+            "Francais": 7.44,
+            "Anglais": 13.69,
+            "PC": 11.33,
+            "SVT": 5.58,
+            "HG": 14.33
+        },
+        "moyenne_generale": 10.39
+    },
+    {
+        "code": "BAF013",
+        "numero": "NBV76RD",
+        "prenom": "Abdalah",
+        "nom": "Gueye",
+        "date_naissance": "01/01/1992",
+        "classe": "4A",
+        "matieres": {
+            "Math": 4.83,
+            "Francais": 14.56,
+            "Anglais": 15.36,
+            "PC": 16.33,
+            "SVT": 11.58,
+            "HG": 15.33
+        },
+        "moyenne_generale": 13.0
+    },
+    {
+        "code": "BAF013",
+        "numero": "NB675DH",
+        "prenom": "Hawa",
+        "nom": "Dia",
+        "date_naissance": "07/07/1997",
+        "classe": "5B",
+        "matieres": {
+            "Math": 11.17,
+            "Francais": 18.0,
+            "Anglais": 15.02,
+            "PC": 16.67,
+            "SVT": 4.58,
+            "HG": 10.33
+        },
+        "moyenne_generale": 12.63
+    },
+    {
+        "code": "BAF013",
+        "numero": "MLHF65D",
+        "prenom": "Penda",
+        "nom": "Guissé",
+        "date_naissance": "04/04/1994",
+        "classe": "3A",
+        "matieres": {
+            "Math": 9.17,
+            "Francais": 13.33,
+            "Anglais": 15.36,
+            "PC": 9.67,
+            "SVT": 11.17,
+            "HG": 15.33
+        },
+        "moyenne_generale": 12.34
+    },
+    {
+        "code": "BMP019",
+        "numero": "IHFK34G",
+        "prenom": "Harry",
+        "nom": "DIOUM",
+        "date_naissance": "14/01/1995",
+        "classe": "5A",
+        "matieres": {
+            "SVT": 6.22,
+            "HG": 12.33,
+            "Math": 12.83,
+            "Francais": 11.5,
+            "Anglais": 15.83,
+            "PC": 9.0
+        },
+        "moyenne_generale": 11.28
+    },
+    {
+        "code": "BMP019",
+        "numero": "3FR5IJ9",
+        "prenom": "Hermione",
+        "nom": "DIALLO",
+        "date_naissance": "12/08/2006",
+        "classe": "4B",
+        "matieres": {
+            "SVT": 12.11,
+            "HG": 14.0,
+            "Math": 14.35,
+            "Francais": 14.83,
+            "Anglais": 12.72,
+            "PC": 9.0
+        },
+        "moyenne_generale": 12.84
+    },
+    {
+        "code": "BMP019",
+        "numero": "PM12NG7",
+        "prenom": "Marième",
+        "nom": "DIOP",
+        "date_naissance": "19/08/1997",
+        "classe": "3A",
+        "matieres": {
+            "PC": 10.33,
+            " Math": 12.83,
+            "Francais": 11.17,
+            "Anglais": 14.6,
+            "SVT": 12.0,
+            "HG": 12.33
+        },
+        "moyenne_generale": 12.21
+    },
+    {
+        "code": "BMP019",
+        "numero": "89HY6F5",
+        "prenom": "Ronald",
+        "nom": "DIALLO",
+        "date_naissance": "09/05/2000",
+        "classe": "6A",
+        "matieres": {
+            "Math": 14.75,
+            "PC": 9.67,
+            "Francais": 11.17,
+            "SVT": 12.0,
+            "HG": 12.0,
+            "Anglais": 14.5
+        },
+        "moyenne_generale": 12.35
+    },
+    {
+        "code": "BMP019",
+        "numero": "5D7BKJ2",
+        "prenom": "Magui",
+        "nom": "FALL",
+        "date_naissance": "30/08/2008",
+        "classe": "3B",
+        "matieres": {
+            "Math": 13.5,
+            "Francais": 11.67,
+            "Anglais": 13.75,
+            "PC": 9.67,
+            "SVT": 12.0,
+            "HG": 12.0
+        },
+        "moyenne_generale": 12.1
+    },
+    {
+        "code": "BMP019",
+        "numero": "PK0I89K",
+        "prenom": "Rachid",
+        "nom": "CAMARA",
+        "date_naissance": "15/02/2001",
+        "classe": "6A",
+        "matieres": {
+            "PC": 9.67,
+            "   Math": 12.83,
+            "Francais": 12.83,
+            "Anglais": 7.93,
+            "SVT": 12.0,
+            "HG": 12.33
+        },
+        "moyenne_generale": 11.27
+    },
+    {
+        "code": "BMP019",
+        "numero": "NO895G",
+        "prenom": "Ibou",
+        "nom": "DIOUF",
+        "date_naissance": "07/11/1994",
+        "classe": "5B",
+        "matieres": {
+            "Math": 14.06,
+            "PC": 16.83,
+            "Francais": 12.17,
+            "SVT": 12.25,
+            "HG": 13.0,
+            "Anglais": 14.37
+        },
+        "moyenne_generale": 13.78
+    },
+    {
+        "code": "BMP019",
+        "numero": "9F6J9TT",
+        "prenom": "Ousseynou",
+        "nom": "POUYE",
+        "date_naissance": "02/12/1985",
+        "classe": "4A",
+        "matieres": {
+            "Math": 15.54,
+            "PC": 15.17,
+            "Francais": 13.17,
+            "SVT": 12.17,
+            "HG": 11.67,
+            "Anglais": 14.5
+        },
+        "moyenne_generale": 13.7
+    },
+    {
+        "code": "BMP019",
+        "numero": "6G6F9F1",
+        "prenom": "Mahi",
+        "nom": "DEME",
+        "date_naissance": "27/10/1993",
+        "classe": "3B",
+        "matieres": {
+            "PC": 9.67,
+            "Math": 12.86,
+            "Francais": 13.0,
+            "Anglais": 14.27,
+            "SVT": 12.0,
+            "HG": 14.0
+        },
+        "moyenne_generale": 12.63
+    },
+    {
+        "code": "BMP019",
+        "numero": "BH54JJ6",
+        "prenom": "Bachir",
+        "nom": "DUBOIS",
+        "date_naissance": "15/09/1994",
+        "classe": "5A",
+        "matieres": {
+            "Math": 14.17,
+            "Francais": 12.44,
+            "Anglais": 13.25,
+            "PC": 11.17,
+            "SVT": 11.92,
+            "HG": 10.0
+        },
+        "moyenne_generale": 12.16
+    },
+    {
+        "code": "BNT021",
+        "numero": "12OUITY7",
+        "prenom": "H654F",
+        "nom": "Fall",
+        "date_naissance": "26/12/1988",
+        "classe": "5B",
+        "matieres": {
+            "SVT": 9.67,
+            "PC": 10.83,
+            "Francais": 12.5,
+            "Anglais": 11.83,
+            "HG": 6.17,
+            "Math": 9.83
+        },
+        "moyenne_generale": 10.14
+    },
+    {
+        "code": "BNT021",
+        "numero": "BT3456YH",
+        "prenom": "Kaba",
+        "nom": "Dingka",
+        "date_naissance": "12/05/1997",
+        "classe": "4A",
+        "matieres": {
+            "SVT": 16.0,
+            "PC": 18.17,
+            "Francais": 12.5,
+            "Anglais": 1.0,
+            "HG": 0.83,
+            "Math": 7.83
+        },
+        "moyenne_generale": 9.39
+    },
+    {
+        "code": "BNT021",
+        "numero": "DR765TR4",
+        "prenom": "Ndeye",
+        "nom": "Ndiaye",
+        "date_naissance": "23/05/1996",
+        "classe": "5D",
+        "matieres": {
+            "SVT": 14.67,
+            "PC": 8.83,
+            "Francais": 13.67,
+            "Anglais": 15.5,
+            "HG": 8.17,
+            "Math": 15.33
+        },
+        "moyenne_generale": 12.7
+    },
+    {
+        "code": "BNT021",
+        "numero": "GT3456YT",
+        "prenom": "Sokhna",
+        "nom": "Diop",
+        "date_naissance": "23/08/1992",
+        "classe": "4A",
+        "matieres": {
+            "SVT": 16.67,
+            "PC": 15.5,
+            "Francais": 14.83,
+            "Anglais": 14.17,
+            "HG": 8.33,
+            "Math": 17.67
+        },
+        "moyenne_generale": 14.53
+    },
+    {
+        "code": "BNT021",
+        "numero": "34FT768H",
+        "prenom": "Khoudia",
+        "nom": "Dioum",
+        "date_naissance": "12/09/1995",
+        "classe": "6B",
+        "matieres": {
+            "SVT": 10.0,
+            "PC": 15.5,
+            "Francais": 9.0,
+            "Anglais": 15.33,
+            "HG": 11.83,
+            "Math": 14.33
+        },
+        "moyenne_generale": 12.66
+    },
+    {
+        "code": "BNT021",
+        "numero": "45TGFD67",
+        "prenom": "Kine",
+        "nom": "King",
+        "date_naissance": "24/05/1998",
+        "classe": "6C",
+        "matieres": {
+            "SVT": 7.17,
+            "PC": 10.33,
+            "Francais": 15.83,
+            "Anglais": 15.0,
+            "HG": 18.0,
+            "Math": 18.5
+        },
+        "moyenne_generale": 14.14
+    },
+    {
+        "code": "BNT021",
+        "numero": "VFT34UYT",
+        "prenom": "Fatou",
+        "nom": "Fakha",
+        "date_naissance": "23/09/1995",
+        "classe": "3A",
+        "matieres": {
+            "SVT": 15.83,
+            "PC": 14.83,
+            "Francais": 17.83,
+            "Anglais": 14.83,
+            "HG": 17.33,
+            "Math": 12.33
+        },
+        "moyenne_generale": 15.5
+    },
+    {
+        "code": "BNT021",
+        "numero": "FTR3456G",
+        "prenom": "Rama",
+        "nom": "Drame",
+        "date_naissance": "12/03/1992",
+        "classe": "5B",
+        "matieres": {
+            "SVT": 15.17,
+            "PC": 11.17,
+            "Francais": 18.0,
+            "Anglais": 16.83,
+            "HG": 16.17,
+            "Math": 18.0
+        },
+        "moyenne_generale": 15.89
+    }
+]
