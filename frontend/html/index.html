@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestion Étudiants - DevData</title>
+    <!-- Import de Tailwind CSS via CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 min-h-screen p-8">
+
+    <div class="max-w-6xl mx-auto bg-white rounded-xl shadow-lg overflow-hidden">
+        
+        <!-- En-tête -->
+        <div class="bg-gray-800 text-white p-6 flex justify-between items-center">
+            <div>
+                <h1 class="text-2xl font-bold">Tableau de Bord Étudiants</h1>
+                <p class="text-gray-400 text-sm">Projet Fullstack Python & API</p>
+            </div>
+            <div class="text-right">
+                <span id="total-count" class="text-xs bg-gray-700 px-3 py-1 rounded-full">Chargement...</span>
+            </div>
+        </div>
+
+        <!-- Barre de contrôle / Pagination -->
+        <div class="p-4 bg-gray-50 border-b border-gray-200 flex justify-between items-center">
+            <div class="flex items-center space-x-2">
+                <span class="text-gray-600 font-medium">Page :</span>
+                <span id="page-info" class="text-blue-600 font-bold text-lg">1</span>
+            </div>
+
+            <div class="flex space-x-2">
+                <button id="btn-prev" class="px-4 py-2 bg-gray-300 text-gray-700 rounded hover:bg-gray-400 disabled:opacity-50 disabled:cursor-not-allowed transition">
+                    ← Précédent
+                </button>
+                <button id="btn-next" class="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 disabled:opacity-50 disabled:cursor-not-allowed transition shadow">
+                    Suivant →
+                </button>
+            </div>
+        </div>
+
+        <!-- Tableau des données -->
+        <div class="overflow-x-auto">
+            <table class="w-full text-left border-collapse">
+                <thead>
+                    <tr class="bg-gray-100 text-gray-600 uppercase text-xs leading-normal">
+                        <th class="py-3 px-6 text-left">Source</th>
+                        <th class="py-3 px-6 text-left">Numéro</th>
+                        <th class="py-3 px-6 text-left">Code</th>
+                        <th class="py-3 px-6 text-left">Nom</th>
+                        <th class="py-3 px-6 text-left">Prénom</th>
+                        <th class="py-3 px-6 text-left">Classe</th>
+                        <th class="py-3 px-6 text-center">Moyenne</th>
+                    </tr>
+                </thead>
+                <tbody id="students-table-body" class="text-gray-600 text-sm font-light">
+                    <!-- Les lignes seront injectées ici par JS -->
+                </tbody>
+            </table>
+        </div>
+        
+        <!-- Message vide ou erreur -->
+        <div id="message-area" class="p-6 text-center text-gray-500 hidden">
+            Aucune donnée trouvée.
+        </div>
+    </div>
+
+    <script src="../js/script.js"></script>
+</body>
+</html>
