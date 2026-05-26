@@ -2,7 +2,8 @@ from fastapi import APIRouter, Query
 from models.schemas import EtudiantListResponse
 from services.etudiant_service import get_etudiants_hybride
 from pydantic import BaseModel
-from typing import List
+from typing import List 
+from core.database import get_connection
 
 router = APIRouter()
 
